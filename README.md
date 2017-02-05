@@ -1,2 +1,2 @@
 # ceu-r-lab
-Learning about git
+Jag lär mig git
